@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Project 4 – Loan Approval Prediction
 Group 1 - David, Angela, Phuong, Brendan, Erastus, Dante
@@ -50,3 +51,6 @@ Selecting dataset with the right sample size, data engineering and machine learn
 
 
 
+=======
+# project4
+>>>>>>> 51acb68dc21475b178bd43c4ddaf58eb58e923f6
