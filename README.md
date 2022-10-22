@@ -1,4 +1,9 @@
 
+<<<<<<< HEAD
+=======
+Project Application Link: https://mlforloan.herokuapp.com/form.html 
+
+>>>>>>> 5679825ba99ed14e315dbe45500eefac306df387
 # Project 4 – Loan Approval Prediction
 Group 1 - David, Angela, Phuong, Brendan, Erastus, Dante
 
